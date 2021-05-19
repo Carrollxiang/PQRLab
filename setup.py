@@ -14,7 +14,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'PQRLab'
 DESCRIPTION = 'Controll System for PQR.'
-URL = 'https://github.com/Carrollxiang/PQRLab'
+URL = 'https://gitee.com/teshenghsiang/PQRLab'
 EMAIL = 'carrollxiang@gmail.com'
 AUTHOR = 'PQR Team'
 REQUIRES_PYTHON = '>=3.6.0'
