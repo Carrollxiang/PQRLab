@@ -1,0 +1,7 @@
+README.md
+setup.py
+PQRLab.egg-info/PKG-INFO
+PQRLab.egg-info/SOURCES.txt
+PQRLab.egg-info/dependency_links.txt
+PQRLab.egg-info/requires.txt
+PQRLab.egg-info/top_level.txt
